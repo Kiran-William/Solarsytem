@@ -8,6 +8,4 @@ In order to create a realistic and rich cosmic game experience, we have introduc
 
 ![](storageapi.fleek.co/0ac2804e-b6a7-4a67-aca3-bbda0b01d1a1-bucket/Solarstyem.png)
 
-Our ultimate goal is not to build a visualized solar system metaverse, but to create a ecosystem with a commercial economy. For example, players can build their own homes on different planets and space stations by auctioning off NFT land, or by mining some of Solarsytem's unique products and opening stores to sell them Earn Tokens, etc.
-
 [Solarsytem Demo Video](https://drive.google.com/file/d/11bVp81l8brkAlcTT7fibh7tbp_ZrXjKQ/view?usp=sharing)
