@@ -6,7 +6,7 @@ In order to create a realistic and rich cosmic game experience, we have introduc
 
 ![](https://storageapi.fleek.co/0ac2804e-b6a7-4a67-aca3-bbda0b01d1a1-bucket/Solarsytem.png)
 
-![](storageapi.fleek.co/0ac2804e-b6a7-4a67-aca3-bbda0b01d1a1-bucket/Solarstyem.png)
+![](https://storageapi.fleek.co/0ac2804e-b6a7-4a67-aca3-bbda0b01d1a1-bucket/Solarstyem.png)
 
 * [Solarsytem Demo Video](https://drive.google.com/file/d/11bVp81l8brkAlcTT7fibh7tbp_ZrXjKQ/view?usp=sharing)
 * [Solarsytem Download Experience](https://drive.google.com/file/d/1ErtNOHQrBOxM0QPaCkV74XXHe388K-5Z/view?usp=sharing)
