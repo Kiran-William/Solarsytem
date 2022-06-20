@@ -1,6 +1,6 @@
 # Solarsytem
 
-Solarsytem is a metaverse with nine planets, which presents the real appearance for these main planets in solar system completely, allowing people to have immersive access via computer devices or VR 3D headsets. Enjoy the experience of travelling around the Sun, Mercury, Venus, Earth, Mars, Jupiter, Uranus and Neptune in that close way.
+Solarsytem is a metaverse with eight planets, which presents the real appearance for these main planets in solar system completely, allowing people to have immersive access via computer devices or VR 3D headsets. Enjoy the experience of travelling around the Sun, Mercury, Venus, Earth, Mars, Jupiter, Uranus and Neptune in that close way.
 
 In order to create a realistic and rich cosmic game experience, we have introduced gravitational laws to everything in Solarsytem, so everything will move and rotate according to the gravitational laws of the sun. When you enter Solarsytem, you will not only be able to observe the universe via different angles, but move in a way that allows you to observe some small celestial systems in depth.
 
